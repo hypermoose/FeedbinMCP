@@ -1,6 +1,6 @@
 # FeedbinMCP
 
-> This project was generated almost entirely by [Claude Code](https://claude.ai/claude-code), Anthropic's AI coding assistant, with only minor human editing.
+> This project was generated almost entirely by [Claude Code](https://claude.com/product/claude-code), Anthropic's AI coding assistant, with only minor human editing.
 
 An [MCP](https://modelcontextprotocol.io) server that connects Claude to your [Feedbin](https://feedbin.com) RSS account. Read articles, manage read/unread state, and star or unstar entries — all from a Claude conversation.
 
